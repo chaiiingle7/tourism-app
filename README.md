@@ -1,3 +1,5 @@
 # tourism-app
 college group project
-author: Chaitali Ingle 
+<br>
+Author: Chaitali Ingle 
+<br> <p> I'm building my own website! </p> 
